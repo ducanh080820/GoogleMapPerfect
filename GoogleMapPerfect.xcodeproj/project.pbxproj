@@ -15,6 +15,7 @@
 		57AB159E21CB8A4A00C2940E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57AB159C21CB8A4A00C2940E /* LaunchScreen.storyboard */; };
 		57AB15A621CB8A5C00C2940E /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 57AB15A521CB8A5C00C2940E /* Podfile */; };
 		57AB15A821CB8CEF00C2940E /* ShowAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57AB15A721CB8CEF00C2940E /* ShowAlert.swift */; };
+		57E0046A21E982300078507E /* LocationSearchTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E0046921E982300078507E /* LocationSearchTable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		57AB159F21CB8A4A00C2940E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		57AB15A521CB8A5C00C2940E /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		57AB15A721CB8CEF00C2940E /* ShowAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowAlert.swift; sourceTree = "<group>"; };
+		57E0046921E982300078507E /* LocationSearchTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchTable.swift; sourceTree = "<group>"; };
 		A07B927FDAAAB062F27E5E73 /* Pods-GoogleMapPerfect.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoogleMapPerfect.release.xcconfig"; path = "Pods/Target Support Files/Pods-GoogleMapPerfect/Pods-GoogleMapPerfect.release.xcconfig"; sourceTree = "<group>"; };
 		DDFA2BA0FA67E810A6B0645B /* libPods-GoogleMapPerfect.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoogleMapPerfect.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -68,6 +70,7 @@
 			children = (
 				57AB159321CB8A4800C2940E /* AppDelegate.swift */,
 				57AB159521CB8A4800C2940E /* ViewController.swift */,
+				57E0046921E982300078507E /* LocationSearchTable.swift */,
 				57AB15A721CB8CEF00C2940E /* ShowAlert.swift */,
 				57AB159721CB8A4800C2940E /* Main.storyboard */,
 				57AB159A21CB8A4A00C2940E /* Assets.xcassets */,
@@ -225,6 +228,7 @@
 				57AB159621CB8A4800C2940E /* ViewController.swift in Sources */,
 				57AB15A821CB8CEF00C2940E /* ShowAlert.swift in Sources */,
 				57AB159421CB8A4800C2940E /* AppDelegate.swift in Sources */,
+				57E0046A21E982300078507E /* LocationSearchTable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
